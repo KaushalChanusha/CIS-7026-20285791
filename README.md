@@ -6,4 +6,6 @@ Repository Contains Following Files,
 
 1) Scripted Jupyter Note Book File of Assignment Coding Implementation:
    
-2) Event Log FIle of Road Traffic Fine Management Process: data/Road_Traffic_Fine_Management_Process.xes
+2) Event Log FIle of Road Traffic Fine Management Process: data/Road_Traffic_Fine_Management_Process.xes.zip
+
+- Unzip the "Road_Traffic_Fine_Management_Process.xes.zip" file before execute the code.
